@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuildItBiggerDzifa.iml" filepath="$PROJECT_DIR$/BuildItBiggerDzifa.iml" group="BuildItBiggerDzifa" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="BuildItBiggerDzifa/app" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" group="BuildItBiggerDzifa/backend" />
+      <module fileurl="file://$PROJECT_DIR$/joke-provider/joke-provider.iml" filepath="$PROJECT_DIR$/joke-provider/joke-provider.iml" group="BuildItBiggerDzifa/joke-provider" />
+      <module fileurl="file://$PROJECT_DIR$/joke-teller/joke-teller.iml" filepath="$PROJECT_DIR$/joke-teller/joke-teller.iml" group="BuildItBiggerDzifa/joke-teller" />
+    </modules>
+  </component>
+</project>
